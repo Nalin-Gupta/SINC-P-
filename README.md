@@ -1,6 +1,13 @@
-# SINC-P
-Student Information, News &amp; Complaints Portal(SINC-P)-
-A work in progress college level group project, developed to tackle the issues of the students as well as bring attention to recreational activities.
-The project aims to bring about the following features:-
-1. Information: All college related information such as admissions,
-2. News: All college related news such as society recruitments, society events, upcoming sports competitions, placement 
+# SINC-P: Campus Complaint Management Portal
+
+This project is a fork of a group coursework project completed during our 6th semester lab at MANIT Bhopal.  
+The code was originally pushed by my teammate, but reflects a collaborative effort.
+
+### My Role and Contributions
+- Designed the **role-based access control (RBAC)** model.
+- Drafted the **Software Requirements Specification (SRS)** [see `/SRS for SINC-P.docx`].
+- Participated in planning and feature breakdown.
+
+
+### License
+For academic reference only
